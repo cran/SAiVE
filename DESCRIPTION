@@ -2,7 +2,8 @@ Type: Package
 Package: SAiVE
 Title: Functions Used for SAiVE Group Research, Collaborations, and
         Publications
-Version: 1.0.4
+Version: 1.0.5
+Date/Publication: 2024-04-22 08:22:53 UTC
 Authors@R: 
     person("Ghislain", "de Laplante", , "ghislain.delaplante@yukon.ca", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0002-5093-9185"))
@@ -24,9 +25,8 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2024-02-07 03:58:32 UTC; g_del
+Packaged: 2024-04-22 05:02:38 UTC; g_del
 Author: Ghislain de Laplante [aut, cre, cph]
     (<https://orcid.org/0000-0002-5093-9185>)
 Maintainer: Ghislain de Laplante <ghislain.delaplante@yukon.ca>
 Repository: CRAN
-Date/Publication: 2024-02-07 18:20:05 UTC
