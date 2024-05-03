@@ -2,8 +2,8 @@ Type: Package
 Package: SAiVE
 Title: Functions Used for SAiVE Group Research, Collaborations, and
         Publications
-Version: 1.0.5
-Date/Publication: 2024-04-22 08:22:53 UTC
+Version: 1.0.6
+Date/Publication: 2024-05-03 12:30:16 UTC
 Authors@R: 
     person("Ghislain", "de Laplante", , "ghislain.delaplante@yukon.ca", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0002-5093-9185"))
@@ -23,9 +23,9 @@ Suggests: ranger, testthat (>= 3.0.0), vdiffr, whitebox
 Config/testthat/edition: 3
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.1
 NeedsCompilation: no
-Packaged: 2024-04-22 05:02:38 UTC; g_del
+Packaged: 2024-05-02 23:20:35 UTC; g_del
 Author: Ghislain de Laplante [aut, cre, cph]
     (<https://orcid.org/0000-0002-5093-9185>)
 Maintainer: Ghislain de Laplante <ghislain.delaplante@yukon.ca>
